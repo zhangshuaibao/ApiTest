@@ -1,0 +1,7 @@
+init_data:
+  init:
+    username: 'admin'
+case_name: testcase
+
+#True & False
+sql_assert: False
